@@ -1,27 +1,19 @@
-## Спринт:
- Выпускной проект
+## Field of activity:
 
-## 
+-Gamedev
 
-
-## Сфера деятельности:
-
-- Gamedev
-
-### Направление деятельности:
+### Direction of activity:
 - Data Analyst
-- Аналитик (универсал)
+- Analyst (generalist)
 
-### Задача:
-На основе всех полученных данных в курсе выполнить буткемп-проект по одной из выбранной областей:
-- мобильные приложения
+### Task:
+Based on all the data received in the course, complete a bootcamp project in one of the selected areas:
+- mobile applications
 
 
-### Описание проекта:
-Игровое приложение "Космические братья" планирует начать зарабатывать на рекламе.
-Проведена рекламная кампания и привлечены новые пользователи, проанализировал их поведение и нашел закономерности, чтобы сформировать модель монетизации.
+### Project description:
+The gaming application "Space Brothers" plans to start making money from advertising.
+An advertising campaign was carried out and new users were attracted, analyzed their behavior and found patterns to form a monetization model.
 
-### Навыки и инструменты:
-`Python` `Pandas` `Numpy` `Seaborn` `Matplotlib` `Scipy`  `Plotly`, Tableau, Power Point.
-
-### Статус проекта завершен. :heavy_check_mark:
+### Skills and tools:
+`Python` `Pandas` `Numpy` `Seaborn` `Matplotlib` `Scipy' `Plot`, table, PowerPoint.
